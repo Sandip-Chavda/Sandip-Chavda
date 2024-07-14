@@ -1,5 +1,5 @@
 # 💫 Sandip Chavda:
-👋 Hi, I’m @Sandip-Chavda<br>👀 I’m interested in Full Stack Development<br>🌱 I’m currently learning Next.js, TypeScript, Prisma ORM<br>📫 How to reach me :- Email : chavdas766@gmail.com<br>
+👋 Hi, I’m @Sandip-Chavda<br>👀 I’m interested in Full Stack & Web3 Development<br>🌱 I’m currently learning Prisma ORM, Docker & Jenkins<br>📫 How to reach me :- Email : chavdas766@gmail.com<br>
 
 
 ## 🌐 Socials:
